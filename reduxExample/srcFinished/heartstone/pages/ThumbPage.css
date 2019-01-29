@@ -1,0 +1,14 @@
+.thumbHS {
+  width: 100px;
+  height: auto;
+  border: 0;
+  display: inline-block;
+}
+
+.thumbHS:hover {
+  transform: scale(3);
+}
+
+.thumbHS:hover {
+  transition: transform 0.5s ease-out;
+}

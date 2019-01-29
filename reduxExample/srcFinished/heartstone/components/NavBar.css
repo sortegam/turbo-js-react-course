@@ -1,0 +1,11 @@
+.NavBar {
+  margin-bottom: 40px;
+}
+.NavBar > a {
+  margin: 10px 10px;
+  color: white;
+  background-color: rgb(2, 104, 163);
+  padding: 10px 30px;
+  border-radius: 3px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7);
+}

@@ -1,0 +1,17 @@
+.CardList {
+  border: 1px solid #aaa;
+  width: 100%;
+}
+
+.CardList > tr {
+  border-bottom: 1px solid #aaa;
+}
+.CardList > tr > td {
+  padding: 20px;
+}
+
+.CardList .headers {
+  background: black;
+  color: white;
+  font-size: 24px;
+}
